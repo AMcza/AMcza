@@ -53,47 +53,6 @@
     <img src="https://img.shields.io/badge/✍️-CSDN博客-FF6347?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN">
   </a>
 </div>
-### 🚀 精选项目
-<table>
-  <tr>
-    <td width="33%">
-      <a href="https://github.com/AMcza/cmm-interview-project">
-        <div align="center">
-          <h3>🎯 CMM面试答题平台</h3>
-          <p>基于React + Spring Boot + Redis + Elasticsearch</p>
-          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
-          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis">
-          <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
-        </div>
-      </a>
-    </td>
-    <td width="33%">
-      <a href="https://github.com/AMcza/CmmAiAgent">
-        <div align="center">
-          <h3>🤖 Cmmlover智能体</h3>
-          <p>基于Spring AI的智能交互系统</p>
-          <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring AI">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
-          <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=openai&logoColor=white" alt="AI">
-        </div>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <a href="https://github.com/AMcza/cmmdati">
-        <div align="center">
-          <h3>🎮 AI答题平台</h3>
-          <p>基于SpringBoot + GLM3.0的智能答题应用</p>
-          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
-          <img src="https://img.shields.io/badge/GLM-00C851?style=flat&logo=openai&logoColor=white" alt="GLM">
-          <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=openai&logoColor=white" alt="AI">
-        </div>
-      </a>
-    </td>
-  </tr>
-</table>
 
 ## 📞 联系方式
 
