@@ -1,66 +1,176 @@
-# 👋 我是XiaoRan ✨
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+%F0%9F%91%8B;I'm+XiaoRan+%E2%9C%A8;Full+Stack+Developer" alt="Typing SVG" />
+</div>
+
+---
 
 ## 📖 关于我
-全栈工程师，热爱编程。
-## 🧑‍🔧 技术栈
-- 基础
-  - 计算机网络(应用层,传输层,网络层)
-  - 操作系统(进程管理,内存管理,文件管理,网络模型)
-- 后端
-  - Java基础: 集合(HashMap,ArrayList等),并发(ThreadLocal,CAS,Sychronsized等),JVM(G1,CMS垃圾回收器,java内存模型)
-  - 框架：SpringBoot(自动装配,AOP,SpringIOC容器,SpringBean),Mybatis
-  - 数据库：Redis(数据结构[sds,skiplist,ziplist,hashtable等],过期策略和内存淘汰机制,持久化AOF和RDB),Mysql(锁机制,索引机制,)
-- 前端
----
-## 🌟 个人博客与项目
-### 📝 博客
-- [飞书知识库](https://rcni1aq8cn34.feishu.cn/wiki/space/7555403514416070675?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home)-👋 学习笔记记录 ✨
-- [编程导航](https://www.codefather.cn/user/1751965032847069185/comment)-👋 学习社区 ✨
-- [CSDN](https://rcni1aq8cn34.feishu.cn/wiki/space/7555403514416070675?ccm_open_type=lark_wiki_spaceLink&open_tab_from=wiki_home)-👋 有时间发发 ✨
-### 🚀 实践项目
-- [cmm面试答题平台](https://github.com/AMcza/cmm-interview-project) - 基于React + Spring Boot + Redis + Elasticsearch高并发面试答题平台
-- [Cmmlover超级智能体](https://github.com/AMcza/CmmAiAgent) - 基于Spring AI的智能交互系统
-- [Ai答题平台](https://github.com/AMcza/cmmdati) - 基于Springboot+GLM3.0的答题应用平台
----
-## 📊 今年汇总
+
 <div align="center">
-| 📈 统计数据 | 🎯 技术占比 |
-|------------|------------|
-| <img src="https://img.shields.io/badge/⭐-36-yellow" alt="Stars"> | <img src="https://img.shields.io/badge/Java-68.58%25-brown" alt="Java"> |
-| <img src="https://img.shields.io/badge/📝-243-green" alt="Commits"> | <img src="https://img.shields.io/badge/Vue-14.94%25-success" alt="Vue"> |
-| <img src="https://img.shields.io/badge/🔄-0-blue" alt="PRs"> | <img src="https://img.shields.io/badge/JavaScript-10.65%25-yellow" alt="React"> |
-| <img src="https://img.shields.io/badge/🐛-0-red" alt="Issues"> | <img src="https://img.shields.io/badge/TypeScript-3.69%25-blue" alt="TypeScript"> |
+  <a href="https://github.com/AMcza">
+    <img src="https://img.shields.io/badge/Full%20Stack-Developer-4ECDC4?style=for-the-badge&logo=github&logoColor=white" alt="Full Stack Developer">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Love-Programming-F7B731?style=for-the-badge&logo=codeigniter&logoColor=white" alt="Love Programming">
+  </a>
 </div>
----
-## 🏆 置顶项目
-### 🤖 [len-ai-agent](https://github.com/lenyanjgk/len-ai-agent)
-**标签:** `Java` `Spring AI` `JavaScript`
-> 基于Spring AI的智能交互系统  
-> ⭐ 13 🍴 2 🐛 0
 
-### 📚 [leetcode](https://github.com/lenyanjgk/leetcode)
-**标签:** `Java` `Algorithm`
-> LeetCode算法题解仓库  
-> ⭐ 1 🍴 0 🐛 0
+<p align="center">
+  🔭 热爱编程的全栈工程师<br>
+  💡 专注于构建高性能、可扩展的Web应用<br>
+  🌱 持续学习，不断探索新技术<br>
+  ⚡ 代码改变世界，技术创造未来
+</p>
 
-### 🌐 [blog-csdn](https://github.com/lenyanjgk/blog-csdn)
-**标签:** `JavaScript` `HTML` `CSS`
-> CSDN博客文章源码  
-> ⭐ 1 🍴 0 🐛 0
 ---
+
+## 🧑‍🔧 技术栈
+
+### 🎯 基础知识
+<div align="center">
+  <img src="https://img.shields.io/badge/计算机网络-4285F4?style=flat&logo=wireshark&logoColor=white" alt="Network">
+  <img src="https://img.shields.io/badge/操作系统-FF6B6B?style=flat&logo=windows&logoColor=white" alt="OS">
+  <img src="https://img.shields.io/badge/数据结构与算法-00C851?style=flat&logo=python&logoColor=white" alt="DSA">
+</div>
+
+### 🚀 后端技术
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=mybatis&logoColor=white" alt="MyBatis">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+</div>
+
+**🔧 Java核心技术:**
+- `集合框架` (HashMap, ArrayList, ConcurrentHashMap)
+- `并发编程` (ThreadLocal, CAS, Synchronized, JUC)
+- `JVM原理` (G1/CMS垃圾回收器, 内存模型, 类加载机制)
+
+**💾 数据库技术:**
+- `Redis` (数据结构, 过期策略, 持久化AOF/RDB, 内存淘汰)
+- `MySQL` (锁机制, 索引优化, InnoDB引擎, ACID事务)
+- `Elasticsearch` (全文检索, 项目实战应用)
+
+### 🎨 前端技术
+<div align="center">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white" alt="Axios">
+</div>
+
+---
+
+## 🌟 个人博客与项目
+
+### 📝 知识分享
+<div align="center">
+  <a href="https://rcni1aq8cn34.feishu.cn/wiki/space/7555403514416070675">
+    <img src="https://img.shields.io/badge/📚-飞书知识库-00D6B9?style=for-the-badge&logo=feishu&logoColor=white" alt="飞书知识库">
+  </a>
+  <a href="https://www.codefather.cn/user/1751965032847069185/comment">
+    <img src="https://img.shields.io/badge/💻-编程导航-FF6B6B?style=for-the-badge&logo=codepen&logoColor=white" alt="编程导航">
+  </a>
+  <a href="https://blog.csdn.net/SunnyNice?type=blog">
+    <img src="https://img.shields.io/badge/✍️-CSDN博客-FF6347?style=for-the-badge&logo=csdn&logoColor=white" alt="CSDN">
+  </a>
+</div>
+
+### 🚀 精选项目
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AMcza/cmm-interview-project">
+        <div align="center">
+          <h3>🎯 CMM面试答题平台</h3>
+          <p>基于React + Spring Boot + Redis + Elasticsearch</p>
+          <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
+          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
+          <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" alt="Redis">
+          <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" alt="Elasticsearch">
+        </div>
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/AMcza/CmmAiAgent">
+        <div align="center">
+          <h3>🤖 Cmmlover智能体</h3>
+          <p>基于Spring AI的智能交互系统</p>
+          <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring AI">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
+          <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=openai&logoColor=white" alt="AI">
+        </div>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/AMcza/cmmdati">
+        <div align="center">
+          <h3>🎮 AI答题平台</h3>
+          <p>基于SpringBoot + GLM3.0的智能答题应用</p>
+          <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" alt="Spring Boot">
+          <img src="https://img.shields.io/badge/GLM-00C851?style=flat&logo=openai&logoColor=white" alt="GLM">
+          <img src="https://img.shields.io/badge/AI-FF6B6B?style=flat&logo=openai&logoColor=white" alt="AI">
+        </div>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 2024年度统计
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AMcza&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMcza&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMcza&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FFB86C&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🏆 成就徽章
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AMcza&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
 ## 📞 联系方式
 
-- 📧 **邮箱:** 161415506@qq.com
-- 💬 **微信:** cza_15071904952 (备注来意)
-- 🔗 **GitHub:** [AMcaz]([https://github.com/lenyanjgk](https://github.com/AMcza))
-- 📱 **QQ:** 1561405506
-- 🌐 **CSDN:** [Nice_sunny]([https://blog.csdn.net/lenyan](https://blog.csdn.net/SunnyNice?type=blog))
-
----
 <div align="center">
-
-**🌟 如果觉得有用，请给个Star支持一下！🌟**
-
+  <a href="mailto:161415506@qq.com">
+    <img src="https://img.shields.io/badge/📧-161415506@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/AMcza">
+    <img src="https://img.shields.io/badge/🔗-AMcza-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/💬-cza_15071904952-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WeChat">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/📱-1561405506-128C7E?style=for-the-badge&logo=qq&logoColor=white" alt="QQ">
+  </a>
 </div>
 
+---
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AMcza&style=for-the-badge&color=58A6FF" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/AMcza?style=for-the-badge&color=58A6FF" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/AMcza?style=for-the-badge&color=58A6FF" alt="Stars"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=500&height=30&lines=Thanks+for+visiting+my+profile!+%E2%9C%A8;Feel+free+to+connect+with+me!+%F0%9F%9A%80" alt="Thank You"/>
+</div>
