@@ -26,11 +26,6 @@
 </div>
 ---
 ## 🏆 置顶项目
-### 📋 [lendada](https://github.com/lenyanjgk/lendada)
-**标签:** `Java` `JavaScript` `Vue` `Spring Boot` `Redis`
-> 基于React + Spring Boot + Redis + AI的高并发答题平台  
-> ⭐ 16 🍴 3 🐛 0
-
 ### 🤖 [len-ai-agent](https://github.com/lenyanjgk/len-ai-agent)
 **标签:** `Java` `Spring AI` `JavaScript`
 > 基于Spring AI的智能交互系统  
