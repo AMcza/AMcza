@@ -3,7 +3,14 @@
 ## 📖 关于我
 全栈工程师，热爱编程。
 ## 🧑‍🔧 技术栈
-
+- 基础
+  - 计算机网络(应用层,传输层,网络层)
+  - 操作系统(进程管理,内存管理,文件管理,网络模型)
+- 后端
+  - Java基础: 集合(HashMap,ArrayList等),并发(ThreadLocal,CAS,Sychronsized等),JVM(G1,CMS垃圾回收器,java内存模型)
+  - 框架：SpringBoot(自动装配,AOP,SpringIOC容器,SpringBean),Mybatis
+  - 数据库：Redis(数据结构[sds,skiplist,ziplist,hashtable等],过期策略和内存淘汰机制,持久化AOF和RDB),Mysql(锁机制,索引机制,)
+- 前端
 ---
 ## 🌟 个人博客与项目
 ### 📝 博客
